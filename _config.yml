@@ -1,6 +1,6 @@
 # main text of home
 name: Nick Pouliquen
-bio: Code assassin and Fizzluver
+bio: Software developer, fencer, and Minnesota Vikings fan
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ github: npouliquen
 authors:
     johndoe:
         name: Nick Pouliquen
-        bio: Code assassin and Fizzluver
+        bio: Software developer, fencer, and Minnesota Vikings fan
         external-image: false
         picture: assets/images/profile.jpg
 
