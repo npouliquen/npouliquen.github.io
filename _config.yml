@@ -1,6 +1,6 @@
 # main text of home
 name: Nick Pouliquen
-bio: A subpar programmer, and a subpar fencer.
+bio: Code assassin and Fizzluver
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ github: npouliquen
 authors:
     johndoe:
         name: Nick Pouliquen
-        bio: A subpar programmer, and a subpar fencer.
+        bio: Code assassin and Fizzluver
         external-image: false
         picture: assets/images/profile.jpg
 
